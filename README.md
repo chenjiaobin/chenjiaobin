@@ -21,6 +21,7 @@
 | <a href="https://juejin.cn/user/2506542240773630/posts" target="_blank">掘金</a> | 📚掘金文章 | [https://juejin.cn/user/2506542240773630/posts](https://juejin.cn/user/2506542240773630/posts)  |     |
 | <a href="https://github.com/chenjiaobin/github-search.git" target="_blank">github-search</a> | 🔨小程序版github | [https://github.com/chenjiaobin/github-search.git](https://github.com/chenjiaobin/github-search.git)  |  <img src="https://img.shields.io/github/stars/chenjiaobin/github-search"/>   |
 | <a href="https://github.com/chenjiaobin/express-react-ssr.git" target="_blank">express-react-ssr</a> | 🥭服务端渲染Demo | [https://github.com/chenjiaobin/express-react-ssr.git](https://github.com/chenjiaobin/express-react-ssr.git)  |  <img src="https://img.shields.io/github/stars/chenjiaobin/express-react-ssr"/>   |
+| <a href="https://github.com/chenjiaobin/bot-cli.git" target="_blank">bot-cli</a> | 🎃bot-cli搜索 | [https://github.com/chenjiaobin/bot-cli.git](https://github.com/chenjiaobin/bot-cli.git)  |  <img src="https://img.shields.io/github/stars/chenjiaobin/bot-cli"/>   |
 | <a href="https://github.com/chenjiaobin/fed-blog.git" target="_blank">fed-blog</a> | 🌻VuePress共享文档 | [https://github.com/chenjiaobin/fed-blog.git](https://github.com/chenjiaobin/fed-blog.git)  |  <img src="https://img.shields.io/github/stars/chenjiaobin/fed-blog"/>   |
 
 
