@@ -10,7 +10,7 @@
 ![example](https://img.shields.io/badge/阅读-blue.svg)
 
 交个朋友  
-:point_right: 邮箱：[mrjiaobin@163.com](mailto:mrjiaobin@163.com)  
+:point_right: 邮箱：[jiaobinchen@gmail.com](mailto:jiaobinchen@gmail.com)  
 :point_right: 微信：kchen0810
 
 
